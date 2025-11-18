@@ -1,9 +1,0 @@
-Selected breed: Labrador Retriever
-Entered pet name: Dog1763377866290
-Entered years: 3
-Entered months: 6
-Selected Male
-Entered weight: 25
-Selected kg
-Selected Spayed/Neutered: Yes
-Clicked Next button (My Pet section)

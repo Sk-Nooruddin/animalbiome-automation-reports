@@ -1,0 +1,15 @@
+Uploaded pet image: test-data/Dog1.jpg
+Image cropper popup appeared
+Dragging cropper from center (631.6458740234375, 456.70835876464844)
+Cropper position adjusted
+Clicking submit button on image cropper
+Image uploaded and cropped successfully
+Selected breed: Golden Retriever
+Entered pet name: DogWithImage1763463803568
+Entered years: 2
+Entered months: 8
+Selected Male
+Entered weight: 30
+Selected kg
+Selected Spayed/Neutered: Yes
+Clicked Next button (My Pet section)
