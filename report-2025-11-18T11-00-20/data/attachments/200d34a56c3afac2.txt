@@ -1,0 +1,20 @@
+Clicked Next button (My Pet section)
+Found 7 No buttons
+Clicked No button 1
+Clicked No button 2
+Clicked No button 3
+Clicked No button 4
+Clicked No button 5
+Clicked No button 6
+Selected a checkbox after clicking No button 6
+Clicked No button 7
+Selected a checkbox after clicking No button 7
+Clicked Next button (Pet Health section)
+Filled email: noorabvet@gmail.com
+Filled phone: 5105551234
+Email value after fill: noorabvet@gmail.com
+Phone value after fill: 5105551234
+Clicking Save button
+Clicking Complete button
+Clicking View Pet Portal Home button/link
+Success message found: Pet added successfully.

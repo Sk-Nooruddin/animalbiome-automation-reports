@@ -1,0 +1,3 @@
+Selected breed: Labrador Retriever
+Entered pet name: Dog1763377005540 in input 0
+Pet name entered, moving to next field
