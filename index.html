@@ -3,6 +3,7 @@
 <html>
 <head>
   <title>AnimalBiome Test Reports</title>
+  <meta http-equiv="refresh" content="0; url=latest/">
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -10,16 +11,48 @@
       margin: 0 auto;
       padding: 20px;
       background: #f5f5f5;
+      text-align: center;
     }
     h1 {
       color: #667eea;
-      text-align: center;
+    }
+    .redirect-message {
+      background: white;
+      border-radius: 10px;
+      padding: 40px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      margin-top: 50px;
+    }
+    .latest-link {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 15px 30px;
+      background: #667eea;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+      font-size: 18px;
+    }
+    .latest-link:hover {
+      background: #5568d3;
+    }
+    .archive-link {
+      display: block;
+      margin-top: 20px;
+      color: #667eea;
+      text-decoration: none;
+    }
+    .archive-link:hover {
+      text-decoration: underline;
     }
     .report-list {
       background: white;
       border-radius: 10px;
       padding: 20px;
       box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      margin-top: 30px;
+      text-align: left;
     }
     .report-item {
       padding: 15px;
@@ -32,7 +65,7 @@
       color: #667eea;
       text-decoration: none;
       font-weight: bold;
-      font-size: 18px;
+      font-size: 16px;
     }
     .report-item a:hover {
       text-decoration: underline;
@@ -46,11 +79,22 @@
 </head>
 <body>
   <h1>🧪 AnimalBiome Test Reports</h1>
-  <div class="report-list">
-    <h2>Available Reports (1)</h2>
+  <div class="redirect-message">
+    <p>Redirecting to the latest report...</p>
+    <a href="latest/" class="latest-link">📊 View Latest Report</a>
+    <a href="#archive" class="archive-link" onclick="document.getElementById('archive').style.display='block'; return false;">📁 View All Reports Archive</a>
+  </div>
+  
+  <div class="report-list" id="archive" style="display: none;">
+    <h2>Report Archive (2 reports)</h2>
     
         <div class="report-item">
-          <a href="report-2025-11-18T09-51-51/index.html">📊 report-2025-11-18T09-51-51</a>
+          <a href="report-2025-11-18T10-05-36/">📊 report-2025-11-18T10-05-36</a>
+          <div class="report-date">Generated: 2025:11:18 10:05:36</div>
+        </div>
+      
+        <div class="report-item">
+          <a href="report-2025-11-18T09-51-51/">📊 report-2025-11-18T09-51-51</a>
           <div class="report-date">Generated: 2025:11:18 09:51:51</div>
         </div>
       
