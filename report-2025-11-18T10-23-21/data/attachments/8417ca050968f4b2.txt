@@ -1,0 +1,37 @@
+Selected breed: Labrador Retriever
+Entered pet name: Dog1763451156446
+Entered years: 3
+Entered months: 6
+Selected Male
+Entered weight: 25
+Selected kg
+Selected Spayed/Neutered: Yes
+Clicked Next button (My Pet section)
+Found 7 No buttons
+Clicked No button 1
+Clicked No button 2
+Clicked No button 3
+Clicked No button 4
+Clicked No button 5
+Clicked No button 6
+Selected checkbox 1 after clicking No button 6
+Clicked No button 7
+Selected checkbox 2 after clicking No button 7
+Found 9 body condition radio buttons
+Selected body condition at index: 4
+Entered pet food
+Clicked Next button (Pet Health section)
+Filled clinic name: Oakland Veterinary Clinic
+Filled vet name: Dr. Smith
+Filled street: 456 Vet Street
+Filled city: Oakland
+Filled state: CA
+Filled postal code: 94610
+Filled email: noorabvet@gmail.com
+Filled phone: 5105551234
+Clicking Save button
+Clicking Complete button
+Success page loaded
+Found button with selector: button:has-text("View Pet Portal")
+Clicked View Pet Portal button
+Add Pet button visible: true

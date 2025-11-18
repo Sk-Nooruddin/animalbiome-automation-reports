@@ -1,0 +1,4 @@
+Selected breed: Labrador Retriever
+Entered pet name: Dog1763377700658
+Entered years: 3
+Entered months: 6
