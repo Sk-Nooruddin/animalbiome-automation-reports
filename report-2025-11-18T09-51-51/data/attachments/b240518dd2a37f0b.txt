@@ -1,0 +1,9 @@
+Selected breed: Labrador Retriever
+Total text inputs found: 7
+Input 1: visible=true, placeholder=null
+Input 2: visible=true, placeholder=
+Input 3: visible=true, placeholder=Street
+Input 4: visible=true, placeholder=City
+Input 5: visible=true, placeholder=State / Province / Region
+Input 6: visible=true, placeholder=Postal Code
+Pet name field not found, trying alternative method
