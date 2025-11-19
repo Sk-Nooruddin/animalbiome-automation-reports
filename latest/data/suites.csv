@@ -1,3 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","17148","authenticate","setup","Wed Nov 19 13:30:30 IST 2025","passed","Wed Nov 19 13:30:47 IST 2025","","","",""
-"","122858","1. Add Dog Without Image","chromium","Wed Nov 19 13:30:49 IST 2025","passed","Wed Nov 19 13:32:52 IST 2025","Dog Test Suite - Hybrid Approach","","",""
