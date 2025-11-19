@@ -1,6 +1,6 @@
 ✅ Dashboard loaded, ready to test
 Selected breed: Labrador Retriever
-Entered pet name: Dog1763546224701
+Entered pet name: Dog1763546587891
 Entered years: 3
 Entered months: 6
 Selected Male
@@ -36,5 +36,5 @@ Success page loaded
 Found button with selector: button:has-text("View Pet Portal")
 Clicked View Pet Portal button
 Add Pet button visible: true
-✅ Added pet name "Dog1763546224701" to column User_Dog at row 2
-✅ Pet name "Dog1763546224701" stored in Excel (User_Dog column)
+✅ Added pet name "Dog1763546587891" to column User_Dog at row 4
+✅ Pet name "Dog1763546587891" stored in Excel (User_Dog column)
