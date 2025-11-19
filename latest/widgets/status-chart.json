@@ -1,1 +1,1 @@
-[]
+[{"uid":"8a082fbd12cf0b2","name":"authenticate","time":{"start":1763537211232,"stop":1763537231290,"duration":20058},"status":"passed","severity":"normal"},{"uid":"b04ea8e72852689d","name":"1. Add Dog Without Image","time":{"start":1763537233310,"stop":1763537272246,"duration":38936},"status":"failed","severity":"normal"}]
