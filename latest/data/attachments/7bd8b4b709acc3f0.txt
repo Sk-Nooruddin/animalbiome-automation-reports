@@ -1,0 +1,10 @@
+✅ Dashboard loaded
+✅ Retrieved pet name "Dog1763555181056" from column User_Dog (not deleted)
+📋 Retrieved pet name from Excel: Dog1763555181056
+🔬 Using Sample ID: 697FRK
+Clicked Register Sample button
+Selected pet via select: Dog1763555181056
+Selected sample type: Gut
+Selected fecal color checkbox 1
+Selected reason for test checkbox 2
+Entered Sample ID: 697FRK
