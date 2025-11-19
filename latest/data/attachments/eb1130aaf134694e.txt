@@ -1,9 +1,0 @@
-✅ Dashboard loaded
-✅ Retrieved and removed pet name "Dog1763546587891" from column User_Dog
-📋 Pet: Dog1763546587891
-🔬 Sample ID: GMMANC
-Clicked Register Sample button
-Selected pet via select: Dog1763546587891
-Selected sample type: Oral
-Selected reason for test checkbox 1
-Entered Sample ID: GMMANC
