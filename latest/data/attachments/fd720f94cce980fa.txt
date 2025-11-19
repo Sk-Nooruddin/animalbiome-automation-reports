@@ -6,7 +6,7 @@ Cropper position adjusted
 Clicking submit button on image cropper
 Image uploaded and cropped successfully
 Selected breed: Beagle
-Entered pet name: DogWithImage1763544767628
+Entered pet name: DogWithImage1763546350009
 Entered years: 4
 Entered months: 3
 Selected Male
@@ -42,5 +42,5 @@ Success page loaded
 Found button with selector: button:has-text("View Pet Portal")
 Clicked View Pet Portal button
 Add Pet button visible: true
-✅ Added pet name "DogWithImage1763544767628" to column User_Dog at row 2
-✅ Pet name "DogWithImage1763544767628" stored in Excel (User_Dog column)
+✅ Added pet name "DogWithImage1763546350009" to column User_Dog at row 3
+✅ Pet name "DogWithImage1763546350009" stored in Excel (User_Dog column)
