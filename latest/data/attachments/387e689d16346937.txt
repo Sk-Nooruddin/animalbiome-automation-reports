@@ -1,16 +1,10 @@
 ✅ Dashboard loaded, ready to test
-Uploaded pet image: test-data/Dog2.jpg
-Image cropper popup appeared
-Dragging cropper from center (631.6458740234375, 456.34375)
-Cropper position adjusted
-Clicking submit button on image cropper
-Image uploaded and cropped successfully
-Selected breed: Beagle
-Entered pet name: DogWithImage1763542531852
-Entered years: 4
-Entered months: 3
+Selected breed: Labrador Retriever
+Entered pet name: Dog1763544642561
+Entered years: 3
+Entered months: 6
 Selected Male
-Entered weight: 20
+Entered weight: 25
 Selected kg
 Selected Spayed/Neutered: Yes
 Clicked Next button (My Pet section)
@@ -28,14 +22,14 @@ Found 9 body condition radio buttons
 Selected body condition at index: 4
 Entered pet food
 Clicked Next button (Pet Health section)
-Filled clinic name: Berkeley Animal Hospital
-Filled vet name: Dr. Williams
-Filled street: 456 University Ave
-Filled city: Berkeley
+Filled clinic name: Oakland Veterinary Clinic
+Filled vet name: Dr. Smith
+Filled street: 456 Vet Street
+Filled city: Oakland
 Filled state: CA
-Filled postal code: 94705
-Filled email: drwilliams@berkeleyvet.com
-Filled phone: 5105552345
+Filled postal code: 94610
+Filled email: noorabvet@gmail.com
+Filled phone: 5105551234
 Clicking Save button
 Clicking Complete button
 Success page loaded

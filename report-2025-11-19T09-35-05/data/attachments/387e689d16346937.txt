@@ -1,6 +1,6 @@
 ✅ Dashboard loaded, ready to test
 Selected breed: Labrador Retriever
-Entered pet name: Dog1763542409593
+Entered pet name: Dog1763544642561
 Entered years: 3
 Entered months: 6
 Selected Male
