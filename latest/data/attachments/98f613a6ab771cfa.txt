@@ -1,2 +1,0 @@
-✅ Dashboard loaded
-⚠️ No pet name found in Excel. Please run "Add Pet" tests first.
