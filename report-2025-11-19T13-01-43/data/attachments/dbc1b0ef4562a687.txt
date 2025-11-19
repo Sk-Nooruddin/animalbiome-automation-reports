@@ -1,0 +1,14 @@
+✅ Dashboard loaded
+✅ Retrieved pet name "Dog1763555181056" from column User_Dog (not deleted)
+📋 Retrieved pet name from Excel: Dog1763555181056
+🔬 Using Sample ID: 697FRK
+Clicked Register Sample button
+Selected pet via select: Dog1763555181056
+Selected sample type: Gut via select element
+Selected fecal consistency option 1
+Selected fecal color checkbox 1
+Found "Reason for Test Submission" section
+Found 17 checkboxes on page
+✅ Selected reason for test checkbox 2
+Entered Sample ID: 697FRK
+Selected today's date (19) from calendar
