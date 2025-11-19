@@ -1,0 +1,7 @@
+✅ Dashboard loaded
+✅ Retrieved and removed pet name "Dog1763546224701" from column User_Dog
+📋 Retrieved pet name from Excel: Dog1763546224701
+🔬 Using Sample ID: 697FRK
+Clicked Register Sample button
+Selected pet via select: Dog1763546224701
+Selected sample type: Gut
