@@ -6,9 +6,15 @@ Clicked Register Sample button
 Selected pet via select: Dog1763555181056
 Selected sample type: Gut via select element
 Selected fecal consistency option 1
-Selected fecal color checkbox 1
+Found "Select the color of this fecal sample" section
+✅ Selected Brown checkbox (fecal color)
 Found "Reason for Test Submission" section
 Found 17 checkboxes on page
 ✅ Selected reason for test checkbox 2
 Entered Sample ID: 697FRK
-Selected today's date (19) from calendar
+Selected today's date (20) from calendar
+Looking for Next button...
+Found Next button with selector: input[value="Next"], enabled: false
+Found Next button with selector: input[type="button"][value="Next"], enabled: false
+Found Next button with selector: [type="button"]:has-text("Next"), enabled: false
+Found 7 buttons/inputs on page
