@@ -1,0 +1,30 @@
+✅ Dashboard loaded
+✅ Retrieved pet name "DogWithImage1763555305918" from column User_Dog (not deleted)
+📋 Retrieved pet name from Excel: DogWithImage1763555305918
+🔬 Using Sample ID: YGRKKE
+Clicked Register Sample button
+Selected pet via select: DogWithImage1763555305918
+Selected sample type: Gut via select element
+Selected fecal consistency option 1
+Found "Select the color of this fecal sample" section
+✅ Selected Brown checkbox (fecal color)
+Found "Reason for Test Submission" section
+✅ Selected reason: "My pet is sick and experiencing symptoms"
+Entered Sample ID: YGRKKE
+Selected today's date (20) from calendar
+Found Next button
+✅ Next button is now enabled
+✅ Clicked Next button
+✅ Pet Health section loaded
+✅ Clicked Complete button using selector: input[value="Complete"]
+⏳ Waiting for registration to complete...
+Success message: The sample is successfully registered.
+✅ Sample registered successfully - Success message validated
+✅ Marked YGRKKE as used (yellow) in column User_Dog_Gut
+✅ Sample ID marked as used in Excel (attempt 1)
+✅ Sample ID YGRKKE marked as used (yellow) in Excel
+✅ Removed pet name "DogWithImage1763555305918" from column User_Dog
+✅ Pet name removed from Excel (attempt 1)
+✅ Pet name "DogWithImage1763555305918" deleted from Excel
+✅ Clicked View Pet Portal button using selector: button:has-text("View Pet Portal")
+✅ Returned to Pet Portal
