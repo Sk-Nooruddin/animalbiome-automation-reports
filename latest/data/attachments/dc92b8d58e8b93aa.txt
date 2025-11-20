@@ -1,0 +1,116 @@
+✅ Dashboard loaded, ready to test
+Uploaded pet image: test-data/Dog1.jpg
+Image cropper popup appeared
+Dragging cropper from center (631.6458740234375, 456.70835876464844)
+Cropper position adjusted
+Clicking submit button on image cropper
+Image uploaded and cropped successfully
+Selected breed: Golden Retriever
+Entered pet name: DogWithImageYes1763643243459
+Entered years: 2
+Entered months: 8
+Selected Male
+Entered weight: 30
+Selected kg
+Selected Spayed/Neutered: Yes
+Clicked Next button (My Pet section)
+🔄 Starting Pet Health section with YES options...
+📊 Found 7 Yes buttons
+✅ Clicked Yes button 1/7
+📋 Found 11 checkboxes, selecting all unchecked ones...
+  ✓ Selected checkbox 1
+  ✓ Selected checkbox 2
+  ✓ Selected checkbox 3
+  ✓ Selected checkbox 4
+  ✓ Selected checkbox 5
+  ✓ Selected checkbox 6
+  ✓ Selected checkbox 7
+  ✓ Selected checkbox 8
+  ✓ Selected checkbox 9
+  ✓ Selected checkbox 10
+  ✓ Selected checkbox 11
+✅ Clicked Yes button 2/7
+📋 Found 26 checkboxes, selecting all unchecked ones...
+  ✓ Selected checkbox 12
+  ✓ Selected checkbox 13
+  ✓ Selected checkbox 14
+  ✓ Selected checkbox 15
+  ✓ Selected checkbox 16
+  ✓ Selected checkbox 17
+  ✓ Selected checkbox 18
+  ✓ Selected checkbox 19
+  ✓ Selected checkbox 20
+  ✓ Selected checkbox 21
+  ✓ Selected checkbox 22
+  ✓ Selected checkbox 23
+  ✓ Selected checkbox 24
+  ✓ Selected checkbox 25
+  ✓ Selected checkbox 26
+✅ Clicked Yes button 3/7
+📋 Found 41 checkboxes, selecting all unchecked ones...
+  ✓ Selected checkbox 27
+  ✓ Selected checkbox 28
+  ✓ Selected checkbox 29
+  ✓ Selected checkbox 30
+  ✓ Selected checkbox 31
+  ✓ Selected checkbox 32
+  ✓ Selected checkbox 33
+  ✓ Selected checkbox 34
+  ✓ Selected checkbox 35
+  ✓ Selected checkbox 36
+  ✓ Selected checkbox 37
+  ✓ Selected checkbox 38
+  ✓ Selected checkbox 39
+  ✓ Selected checkbox 40
+  ✓ Selected checkbox 41
+✅ Clicked Yes button 4/7
+📋 Found 58 checkboxes, selecting all unchecked ones...
+  ✓ Selected checkbox 42
+  ✓ Selected checkbox 43
+  ✓ Selected checkbox 44
+  ✓ Selected checkbox 45
+  ✓ Selected checkbox 46
+  ✓ Selected checkbox 47
+  ✓ Selected checkbox 48
+  ✓ Selected checkbox 49
+  ✓ Selected checkbox 50
+  ✓ Selected checkbox 51
+  ✓ Selected checkbox 52
+  ✓ Selected checkbox 53
+  ✓ Selected checkbox 54
+  ✓ Selected checkbox 55
+  ✓ Selected checkbox 56
+  ✓ Selected checkbox 57
+  ✓ Selected checkbox 58
+✅ Clicked Yes button 5/7
+📋 Found 67 checkboxes, selecting all unchecked ones...
+  ✓ Selected checkbox 59
+  ✓ Selected checkbox 60
+  ✓ Selected checkbox 61
+  ✓ Selected checkbox 62
+  ✓ Selected checkbox 63
+  ✓ Selected checkbox 64
+  ✓ Selected checkbox 65
+  ✓ Selected checkbox 66
+  ✓ Selected checkbox 67
+✅ Clicked Yes button 6/7
+📋 Found 80 checkboxes, selecting all unchecked ones...
+  ✓ Selected checkbox 68
+  ✓ Selected checkbox 69
+  ✓ Selected checkbox 70
+  ✓ Selected checkbox 71
+  ✓ Selected checkbox 72
+  ✓ Selected checkbox 73
+  ✓ Selected checkbox 74
+  ✓ Selected checkbox 75
+  ✓ Selected checkbox 76
+  ✓ Selected checkbox 77
+  ✓ Selected checkbox 78
+  ✓ Selected checkbox 79
+  ✓ Selected checkbox 80
+✅ Clicked Yes button 7/7
+📋 Found 99 checkboxes, selecting all unchecked ones...
+  ✓ Selected checkbox 81
+  ✓ Selected checkbox 82
+  ✓ Selected checkbox 83
+  ✓ Selected checkbox 84
