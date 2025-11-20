@@ -16,3 +16,7 @@ Found Next button
 ✅ Next button is now enabled
 ✅ Clicked Next button
 ✅ Pet Health section loaded
+✅ Clicked Complete button using selector: input[value="Complete"]
+⏳ Waiting for registration to complete...
+Success message: The sample is successfully registered.
+✅ Sample registered successfully - Success message validated
