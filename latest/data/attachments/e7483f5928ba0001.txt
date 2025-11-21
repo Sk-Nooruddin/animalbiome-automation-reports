@@ -1,5 +1,6 @@
 ✅ Dashboard loaded, ready to test
 🔍 Looking for the first pet on dashboard...
 ✅ My Pets section found
-✅ Found first pet card (front)
-✅ Clicked on pet card to view profile
+✅ Found first pet card
+✅ Hovered over pet card
+✅ Clicked View button on card back
