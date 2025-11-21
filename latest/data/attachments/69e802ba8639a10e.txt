@@ -6,7 +6,7 @@ Cropper position adjusted
 Clicking submit button on image cropper
 Image uploaded and cropped successfully
 Selected breed: Golden Retriever
-Entered pet name: DogWithImageYes1763708979907
+Entered pet name: DogWithImageYes1763709979546
 Entered years: 2
 Entered months: 8
 Selected Male
@@ -27,75 +27,89 @@ Clicked Next button (My Pet section)
 ✅ Selected body condition (option 5)
 📋 Selecting all checkboxes and dropdowns (multiple passes for dynamic content)...
 
-🔄 Pass 1/10: Selecting checkboxes
+🔄 Pass 1/12: Selecting checkboxes
 Found 71 checkboxes
 ✅ Selected 71 checkboxes
-🔽 Pass 1/10: Selecting dropdowns
+🔽 Pass 1/12: Selecting dropdowns
 Found 0 dropdowns
 ✅ Selected 0 dropdowns
 
-🔄 Pass 2/10: Selecting checkboxes
+🔄 Pass 2/12: Selecting checkboxes
 Found 93 checkboxes
 ✅ Selected 22 checkboxes
-🔽 Pass 2/10: Selecting dropdowns
+🔽 Pass 2/12: Selecting dropdowns
 Found 0 dropdowns
 ✅ Selected 0 dropdowns
 
-🔄 Pass 3/10: Selecting checkboxes
+🔄 Pass 3/12: Selecting checkboxes
 Found 110 checkboxes
 ✅ Selected 17 checkboxes
-🔽 Pass 3/10: Selecting dropdowns
+🔽 Pass 3/12: Selecting dropdowns
 Found 0 dropdowns
 ✅ Selected 0 dropdowns
 
-🔄 Pass 4/10: Selecting checkboxes
+🔄 Pass 4/12: Selecting checkboxes
 Found 130 checkboxes
 ✅ Selected 20 checkboxes
-🔽 Pass 4/10: Selecting dropdowns
+🔽 Pass 4/12: Selecting dropdowns
 Found 0 dropdowns
 ✅ Selected 0 dropdowns
 
-🔄 Pass 5/10: Selecting checkboxes
+🔄 Pass 5/12: Selecting checkboxes
 Found 153 checkboxes
 ✅ Selected 23 checkboxes
-🔽 Pass 5/10: Selecting dropdowns
+🔽 Pass 5/12: Selecting dropdowns
 Found 0 dropdowns
 ✅ Selected 0 dropdowns
 
-🔄 Pass 6/10: Selecting checkboxes
+🔄 Pass 6/12: Selecting checkboxes
 Found 166 checkboxes
 ✅ Selected 13 checkboxes
-🔽 Pass 6/10: Selecting dropdowns
+🔽 Pass 6/12: Selecting dropdowns
 Found 0 dropdowns
 ✅ Selected 0 dropdowns
 
-🔄 Pass 7/10: Selecting checkboxes
+🔄 Pass 7/12: Selecting checkboxes
 Found 172 checkboxes
 ✅ Selected 6 checkboxes
-🔽 Pass 7/10: Selecting dropdowns
+🔽 Pass 7/12: Selecting dropdowns
 Found 3 dropdowns
-✅ Selected 3 dropdowns
+✅ Selected 0 dropdowns
 
-🔄 Pass 8/10: Selecting checkboxes
+🔄 Pass 8/12: Selecting checkboxes
 Found 177 checkboxes
 ✅ Selected 5 checkboxes
-🔽 Pass 8/10: Selecting dropdowns
-Found 9 dropdowns
-✅ Selected 9 dropdowns
+🔽 Pass 8/12: Selecting dropdowns
+Found 7 dropdowns
+✅ Selected 0 dropdowns
 
-🔄 Pass 9/10: Selecting checkboxes
+🔄 Pass 9/12: Selecting checkboxes
 Found 182 checkboxes
 ✅ Selected 5 checkboxes
-🔽 Pass 9/10: Selecting dropdowns
-Found 16 dropdowns
-✅ Selected 16 dropdowns
+🔽 Pass 9/12: Selecting dropdowns
+Found 11 dropdowns
+✅ Selected 0 dropdowns
 
-🔄 Pass 10/10: Selecting checkboxes
+🔄 Pass 10/12: Selecting checkboxes
 Found 188 checkboxes
 ✅ Selected 6 checkboxes
-🔽 Pass 10/10: Selecting dropdowns
-Found 23 dropdowns
-✅ Selected 23 dropdowns
+🔽 Pass 10/12: Selecting dropdowns
+Found 17 dropdowns
+✅ Selected 0 dropdowns
+
+🔄 Pass 11/12: Selecting checkboxes
+Found 188 checkboxes
+✅ Selected 0 checkboxes
+🔽 Pass 11/12: Selecting dropdowns
+Found 17 dropdowns
+✅ Selected 0 dropdowns
+
+🔄 Pass 12/12: Selecting checkboxes
+Found 188 checkboxes
+✅ Selected 0 checkboxes
+🔽 Pass 12/12: Selecting dropdowns
+Found 17 dropdowns
+✅ Selected 0 dropdowns
 
 ✅ All passes completed
 
@@ -109,34 +123,25 @@ Found 3 textareas
 ✅ Entered pet food details
 
 🏥 Handling symptoms dropdowns (Severity and Frequency)...
-Attempt 1: Found 26 select dropdowns
+Attempt 1: Found 17 select dropdowns
 
-📊 Total dropdowns found: 26
-✅ Selected option from dropdown 1/26
-✅ Selected option from dropdown 2/26
-✅ Selected option from dropdown 3/26
-✅ Selected option from dropdown 4/26
-✅ Selected option from dropdown 5/26
-✅ Selected option from dropdown 6/26
-✅ Selected option from dropdown 7/26
-✅ Selected option from dropdown 8/26
-✅ Selected option from dropdown 9/26
-✅ Selected option from dropdown 10/26
-✅ Selected option from dropdown 11/26
-✅ Selected option from dropdown 12/26
-✅ Selected option from dropdown 13/26
-✅ Selected option from dropdown 14/26
-✅ Selected option from dropdown 15/26
-✅ Selected option from dropdown 16/26
-✅ Selected option from dropdown 17/26
-✅ Selected option from dropdown 18/26
-✅ Selected option from dropdown 19/26
-✅ Selected option from dropdown 20/26
-✅ Selected option from dropdown 21/26
-✅ Selected option from dropdown 22/26
-✅ Selected option from dropdown 23/26
-✅ Selected option from dropdown 24/26
-✅ Selected option from dropdown 25/26
-✅ Selected option from dropdown 26/26
+📊 Total dropdowns found: 17
+✅ Selected option from dropdown 1/17
+✅ Selected option from dropdown 2/17
+✅ Selected option from dropdown 3/17
+✅ Selected option from dropdown 4/17
+✅ Selected option from dropdown 5/17
+✅ Selected option from dropdown 6/17
+✅ Selected option from dropdown 7/17
+✅ Selected option from dropdown 8/17
+✅ Selected option from dropdown 9/17
+✅ Selected option from dropdown 10/17
+✅ Selected option from dropdown 11/17
+✅ Selected option from dropdown 12/17
+✅ Selected option from dropdown 13/17
+✅ Selected option from dropdown 14/17
+✅ Selected option from dropdown 15/17
+✅ Selected option from dropdown 16/17
+✅ Selected option from dropdown 17/17
 ✅ All dropdowns handled (Severity for all symptoms, Frequency where available)
 ✅ Pet Health section with YES options completed
