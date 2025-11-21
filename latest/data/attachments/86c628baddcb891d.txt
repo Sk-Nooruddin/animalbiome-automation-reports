@@ -6,7 +6,7 @@ Cropper position adjusted
 Clicking submit button on image cropper
 Image uploaded and cropped successfully
 Selected breed: Golden Retriever
-Entered pet name: DogWithImageYes1763710396294
+Entered pet name: DogWithImageYes1763711074988
 Entered years: 2
 Entered months: 8
 Selected Male
@@ -74,42 +74,42 @@ Found 172 checkboxes
 ✅ Selected 6 checkboxes
 🔽 Pass 7/12: Selecting dropdowns
 Found 3 dropdowns
-✅ Selected 0 dropdowns
+✅ Selected 3 dropdowns
 
 🔄 Pass 8/12: Selecting checkboxes
 Found 177 checkboxes
 ✅ Selected 5 checkboxes
 🔽 Pass 8/12: Selecting dropdowns
-Found 7 dropdowns
-✅ Selected 0 dropdowns
+Found 9 dropdowns
+✅ Selected 9 dropdowns
 
 🔄 Pass 9/12: Selecting checkboxes
 Found 182 checkboxes
 ✅ Selected 5 checkboxes
 🔽 Pass 9/12: Selecting dropdowns
-Found 11 dropdowns
-✅ Selected 0 dropdowns
+Found 16 dropdowns
+✅ Selected 16 dropdowns
 
 🔄 Pass 10/12: Selecting checkboxes
 Found 188 checkboxes
 ✅ Selected 6 checkboxes
 🔽 Pass 10/12: Selecting dropdowns
-Found 17 dropdowns
-✅ Selected 0 dropdowns
+Found 23 dropdowns
+✅ Selected 23 dropdowns
 
 🔄 Pass 11/12: Selecting checkboxes
 Found 188 checkboxes
 ✅ Selected 0 checkboxes
 🔽 Pass 11/12: Selecting dropdowns
-Found 17 dropdowns
-✅ Selected 0 dropdowns
+Found 26 dropdowns
+✅ Selected 26 dropdowns
 
 🔄 Pass 12/12: Selecting checkboxes
 Found 188 checkboxes
 ✅ Selected 0 checkboxes
 🔽 Pass 12/12: Selecting dropdowns
-Found 17 dropdowns
-✅ Selected 0 dropdowns
+Found 27 dropdowns
+✅ Selected 27 dropdowns
 
 ✅ All passes completed
 
@@ -123,25 +123,52 @@ Found 3 textareas
 ✅ Entered pet food details
 
 🏥 Handling symptoms dropdowns (Severity and Frequency)...
-Attempt 1: Found 17 select dropdowns
+Attempt 1: Found 27 select dropdowns
 
-📊 Total dropdowns found: 17
-✅ Selected option from dropdown 1/17
-✅ Selected option from dropdown 2/17
-✅ Selected option from dropdown 3/17
-✅ Selected option from dropdown 4/17
-✅ Selected option from dropdown 5/17
-✅ Selected option from dropdown 6/17
-✅ Selected option from dropdown 7/17
-✅ Selected option from dropdown 8/17
-✅ Selected option from dropdown 9/17
-✅ Selected option from dropdown 10/17
-✅ Selected option from dropdown 11/17
-✅ Selected option from dropdown 12/17
-✅ Selected option from dropdown 13/17
-✅ Selected option from dropdown 14/17
-✅ Selected option from dropdown 15/17
-✅ Selected option from dropdown 16/17
-✅ Selected option from dropdown 17/17
+📊 Total dropdowns found: 27
+✅ Selected option from dropdown 1/27
+✅ Selected option from dropdown 2/27
+✅ Selected option from dropdown 3/27
+✅ Selected option from dropdown 4/27
+✅ Selected option from dropdown 5/27
+✅ Selected option from dropdown 6/27
+✅ Selected option from dropdown 7/27
+✅ Selected option from dropdown 8/27
+✅ Selected option from dropdown 9/27
+✅ Selected option from dropdown 10/27
+✅ Selected option from dropdown 11/27
+✅ Selected option from dropdown 12/27
+✅ Selected option from dropdown 13/27
+✅ Selected option from dropdown 14/27
+✅ Selected option from dropdown 15/27
+✅ Selected option from dropdown 16/27
+✅ Selected option from dropdown 17/27
+✅ Selected option from dropdown 18/27
+✅ Selected option from dropdown 19/27
+✅ Selected option from dropdown 20/27
+✅ Selected option from dropdown 21/27
+✅ Selected option from dropdown 22/27
+✅ Selected option from dropdown 23/27
+✅ Selected option from dropdown 24/27
+✅ Selected option from dropdown 25/27
+✅ Selected option from dropdown 26/27
+✅ Selected option from dropdown 27/27
 ✅ All dropdowns handled (Severity for all symptoms, Frequency where available)
 ✅ Pet Health section with YES options completed
+Clicked Next button (Pet Health section)
+Filled clinic name: San Francisco Pet Hospital
+Filled vet name: Dr. Johnson
+Filled street: 789 Vet Avenue
+Filled city: San Francisco
+Filled state: CA
+Filled postal code: 94103
+Filled email: drjohnson@sfpethospital.com
+Filled phone: 4155551234
+Clicking Save button
+Clicking Complete button
+Success page loaded
+Found button with selector: button:has-text("View Pet Portal")
+Clicked View Pet Portal button
+Add Pet button visible: true
+✅ Added pet name "DogWithImageYes1763711074988" to column User_Dog at row 2
+✅ Pet name "DogWithImageYes1763711074988" stored in Excel (User_Dog column)
