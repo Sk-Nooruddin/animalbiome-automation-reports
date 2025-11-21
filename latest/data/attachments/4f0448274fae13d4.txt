@@ -6,7 +6,7 @@ Cropper position adjusted
 Clicking submit button on image cropper
 Image uploaded and cropped successfully
 Selected breed: Golden Retriever
-Entered pet name: DogWithImageYes1763706887497
+Entered pet name: DogWithImageYes1763707464006
 Entered years: 2
 Entered months: 8
 Selected Male
@@ -27,28 +27,36 @@ Clicked Next button (My Pet section)
 ✅ Selected body condition (option 5)
 📋 Selecting all checkboxes (multiple passes for dynamic content)...
 
-🔄 Checkbox selection pass 1/5
+🔄 Checkbox selection pass 1/8
 Found 71 checkboxes in pass 1
 ✅ Pass 1 completed: 71 checkboxes selected
 
-🔄 Checkbox selection pass 2/5
+🔄 Checkbox selection pass 2/8
 Found 93 checkboxes in pass 2
 ✅ Pass 2 completed: 22 checkboxes selected
 
-🔄 Checkbox selection pass 3/5
+🔄 Checkbox selection pass 3/8
 Found 110 checkboxes in pass 3
 ✅ Pass 3 completed: 17 checkboxes selected
 
-🔄 Checkbox selection pass 4/5
+🔄 Checkbox selection pass 4/8
 Found 130 checkboxes in pass 4
 ✅ Pass 4 completed: 20 checkboxes selected
 
-🔄 Checkbox selection pass 5/5
+🔄 Checkbox selection pass 5/8
 Found 153 checkboxes in pass 5
 ✅ Pass 5 completed: 23 checkboxes selected
-📝 Entering pet food details...
-✅ Entered pet food details
-🏥 Handling symptoms dropdowns (Severity and Frequency)...
-Found 0 select dropdowns
-✅ All dropdowns handled (Severity for all symptoms, Frequency where available)
-✅ Pet Health section with YES options completed
+
+🔄 Checkbox selection pass 6/8
+Found 166 checkboxes in pass 6
+✅ Pass 6 completed: 13 checkboxes selected
+
+🔄 Checkbox selection pass 7/8
+Found 172 checkboxes in pass 7
+✅ Pass 7 completed: 6 checkboxes selected
+
+🔄 Checkbox selection pass 8/8
+Found 177 checkboxes in pass 8
+✅ Pass 8 completed: 0 checkboxes selected
+
+✅ All checkbox passes completed

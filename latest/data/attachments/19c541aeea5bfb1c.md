@@ -1035,7 +1035,7 @@
                   - list [ref=e1190]:
                     - listitem [ref=e1191]:
                       - generic [ref=e1193]:
-                        - checkbox [ref=e1194]
+                        - checkbox [checked] [ref=e1194]
                         - generic [ref=e1195]: Other
                 - generic [ref=e1196]:
                   - generic [ref=e1197]: Diagnosed Physical Conditions Description
@@ -1050,98 +1050,217 @@
                   - list [ref=e1206]:
                     - listitem [ref=e1207]:
                       - generic [ref=e1209]:
-                        - checkbox [ref=e1210]
+                        - checkbox [checked] [ref=e1210]
                         - generic [ref=e1211]: Wet / Canned
                   - list [ref=e1212]:
                     - listitem [ref=e1213]:
                       - generic [ref=e1215]:
-                        - checkbox [ref=e1216]
+                        - checkbox [checked] [ref=e1216]
                         - generic [ref=e1217]: Dry Kibble
                   - list [ref=e1218]:
                     - listitem [ref=e1219]:
                       - generic [ref=e1221]:
-                        - checkbox [ref=e1222]
+                        - checkbox [checked] [ref=e1222]
                         - generic [ref=e1223]: Fresh or Frozen - Cooked
-                  - list [ref=e1224]:
-                    - listitem [ref=e1225]:
-                      - generic [ref=e1227]:
-                        - checkbox [ref=e1228]
-                        - generic [ref=e1229]: Fresh or Frozen - Raw
-                  - list [ref=e1230]:
-                    - listitem [ref=e1231]:
-                      - generic [ref=e1233]:
-                        - checkbox [ref=e1234]
-                        - generic [ref=e1235]: Freeze-dried - Cooked
+                    - list [ref=e1224]:
+                      - listitem [ref=e1225]:
+                        - generic [ref=e1227]:
+                          - checkbox [checked] [ref=e1228]
+                          - generic [ref=e1229]: Commercial
+                    - list [ref=e1230]:
+                      - listitem [ref=e1231]:
+                        - generic [ref=e1233]:
+                          - checkbox [checked] [ref=e1234]
+                          - generic [ref=e1235]: Homemade
                   - list [ref=e1236]:
                     - listitem [ref=e1237]:
                       - generic [ref=e1239]:
-                        - checkbox [ref=e1240]
-                        - generic [ref=e1241]: Freeze-dried - Raw
-                  - list [ref=e1242]:
-                    - listitem [ref=e1243]:
-                      - generic [ref=e1245]:
-                        - checkbox [ref=e1246]
-                        - generic [ref=e1247]: Other
-              - generic [ref=e1248]:
-                - generic [ref=e1249]: Please specify your pet’s food (brand & recipe/type if commercial; ingredients if homemade).
-                - generic [ref=e1250]: Optional
-                - textbox [ref=e1251]
-              - generic [ref=e1252]:
-                - generic [ref=e1253]: Is your pet currently experiencing any symptoms?
-                - generic [ref=e1254]:
-                  - button "Yes" [ref=e1255] [cursor=pointer]
-                  - button "No" [ref=e1256] [cursor=pointer]
-                - generic [ref=e1258]:
-                  - list [ref=e1259]:
-                    - listitem [ref=e1260]:
-                      - generic [ref=e1262]:
-                        - checkbox [ref=e1263]
-                        - generic [ref=e1264]: GI concerns
-                  - list [ref=e1265]:
-                    - listitem [ref=e1266]:
-                      - generic [ref=e1268]:
-                        - checkbox [ref=e1269]
-                        - generic [ref=e1270]: Skin issues
-                  - list [ref=e1271]:
-                    - listitem [ref=e1272]:
-                      - generic [ref=e1274]:
-                        - checkbox [ref=e1275]
-                        - generic [ref=e1276]: Stiff or painful joints
-                  - list [ref=e1277]:
-                    - listitem [ref=e1278]:
-                      - generic [ref=e1280]:
-                        - checkbox [ref=e1281]
-                        - generic [ref=e1282]: Oral concerns
+                        - checkbox [checked] [ref=e1240]
+                        - generic [ref=e1241]: Fresh or Frozen - Raw
+                    - list [ref=e1242]:
+                      - listitem [ref=e1243]:
+                        - generic [ref=e1245]:
+                          - checkbox [checked] [ref=e1246]
+                          - generic [ref=e1247]: Commercial
+                    - list [ref=e1248]:
+                      - listitem [ref=e1249]:
+                        - generic [ref=e1251]:
+                          - checkbox [checked] [ref=e1252]
+                          - generic [ref=e1253]: Homemade
+                  - list [ref=e1254]:
+                    - listitem [ref=e1255]:
+                      - generic [ref=e1257]:
+                        - checkbox [checked] [ref=e1258]
+                        - generic [ref=e1259]: Freeze-dried - Cooked
+                  - list [ref=e1260]:
+                    - listitem [ref=e1261]:
+                      - generic [ref=e1263]:
+                        - checkbox [checked] [ref=e1264]
+                        - generic [ref=e1265]: Freeze-dried - Raw
+                  - list [ref=e1266]:
+                    - listitem [ref=e1267]:
+                      - generic [ref=e1269]:
+                        - checkbox [checked] [ref=e1270]
+                        - generic [ref=e1271]: Other
+                    - list [ref=e1272]:
+                      - listitem [ref=e1273]:
+                        - generic [ref=e1275]:
+                          - checkbox [checked] [ref=e1276]
+                          - generic [ref=e1277]: Commercial
+                    - list [ref=e1278]:
+                      - listitem [ref=e1279]:
+                        - generic [ref=e1281]:
+                          - checkbox [checked] [ref=e1282]
+                          - generic [ref=e1283]: Homemade
+              - generic [ref=e1284]:
+                - generic [ref=e1285]: Please specify your pet’s food (brand & recipe/type if commercial; ingredients if homemade).
+                - generic [ref=e1286]: Optional
+                - textbox [ref=e1287]
+              - generic [ref=e1288]:
+                - generic [ref=e1289]: Is your pet currently experiencing any symptoms?
+                - generic [ref=e1290]:
+                  - button "Yes" [ref=e1291] [cursor=pointer]
+                  - button "No" [ref=e1292] [cursor=pointer]
+                - generic [ref=e1294]:
+                  - list [ref=e1295]:
+                    - listitem [ref=e1296]:
+                      - generic [ref=e1298]:
+                        - checkbox [checked] [ref=e1299]
+                        - generic [ref=e1300]: GI concerns
+                    - list [ref=e1301]:
+                      - listitem [ref=e1302]:
+                        - generic [ref=e1304]:
+                          - checkbox [checked] [ref=e1305]
+                          - generic [ref=e1306]: Constipation / Obstipation
+                      - combobox [ref=e1310]:
+                        - option "Severity" [disabled] [selected]
+                        - option "Mild"
+                        - option "Moderate"
+                        - option "Severe"
+                    - list [ref=e1311]:
+                      - listitem [ref=e1312]:
+                        - generic [ref=e1314]:
+                          - checkbox [checked] [ref=e1315]
+                          - generic [ref=e1316]: Diarrhea
+                      - combobox [ref=e1320]:
+                        - option "Severity" [disabled] [selected]
+                        - option "Mild"
+                        - option "Moderate"
+                        - option "Severe"
+                    - list [ref=e1321]:
+                      - listitem [ref=e1322]:
+                        - generic [ref=e1324]:
+                          - checkbox [checked] [ref=e1325]
+                          - generic [ref=e1326]: Vomiting
+                      - combobox [ref=e1330]:
+                        - option "Severity" [disabled] [selected]
+                        - option "Mild"
+                        - option "Moderate"
+                        - option "Severe"
+                  - list [ref=e1331]:
+                    - listitem [ref=e1332]:
+                      - generic [ref=e1334]:
+                        - checkbox [checked] [ref=e1335]
+                        - generic [ref=e1336]: Skin issues
+                    - list [ref=e1337]:
+                      - listitem [ref=e1338]:
+                        - generic [ref=e1340]:
+                          - checkbox [checked] [ref=e1341]
+                          - generic [ref=e1342]: Red, flaky, inflamed or broken skin
+                      - combobox [ref=e1346]:
+                        - option "Severity" [disabled] [selected]
+                        - option "Mild"
+                        - option "Moderate"
+                        - option "Severe"
+                    - list [ref=e1347]:
+                      - listitem [ref=e1348]:
+                        - generic [ref=e1350]:
+                          - checkbox [checked] [ref=e1351]
+                          - generic [ref=e1352]: Excessive itching
+                      - combobox [ref=e1356]:
+                        - option "Severity" [disabled] [selected]
+                        - option "Mild"
+                        - option "Moderate"
+                        - option "Severe"
+                  - list [ref=e1357]:
+                    - listitem [ref=e1358]:
+                      - generic [ref=e1360]:
+                        - checkbox [checked] [ref=e1361]
+                        - generic [ref=e1362]: Stiff or painful joints
+                    - combobox [ref=e1365]:
+                      - option "Severity" [disabled] [selected]
+                      - option "Mild"
+                      - option "Moderate"
+                      - option "Severe"
+                  - list [ref=e1366]:
+                    - listitem [ref=e1367]:
+                      - generic [ref=e1369]:
+                        - checkbox [checked] [ref=e1370]
+                        - generic [ref=e1371]: Oral concerns
+                    - list [ref=e1372]:
+                      - listitem [ref=e1373]:
+                        - generic [ref=e1375]:
+                          - checkbox [checked] [ref=e1376]
+                          - generic [ref=e1377]: Bad breath
+                      - combobox [ref=e1380]:
+                        - option "Severity" [disabled] [selected]
+                        - option "Mild"
+                        - option "Moderate"
+                        - option "Severe"
+                    - list [ref=e1381]:
+                      - listitem [ref=e1382]:
+                        - generic [ref=e1384]:
+                          - checkbox [ref=e1385]
+                          - generic [ref=e1386]: Red and inflamed gums
+                    - list [ref=e1387]:
+                      - listitem [ref=e1388]:
+                        - generic [ref=e1390]:
+                          - checkbox [ref=e1391]
+                          - generic [ref=e1392]: Tartar build up
+                    - list [ref=e1393]:
+                      - listitem [ref=e1394]:
+                        - generic [ref=e1396]:
+                          - checkbox [ref=e1397]
+                          - generic [ref=e1398]: Broken or worn tooth
+                    - list [ref=e1399]:
+                      - listitem [ref=e1400]:
+                        - generic [ref=e1402]:
+                          - checkbox [ref=e1403]
+                          - generic [ref=e1404]: Tooth discoloration
                   - list
-                  - list [ref=e1283]:
-                    - listitem [ref=e1284]:
-                      - generic [ref=e1286]:
-                        - checkbox [ref=e1287]
-                        - generic [ref=e1288]: Other
-            - generic [ref=e1289]:
-              - button "Back" [ref=e1290] [cursor=pointer]
+                  - list [ref=e1405]:
+                    - listitem [ref=e1406]:
+                      - generic [ref=e1408]:
+                        - checkbox [ref=e1409]
+                        - generic [ref=e1410]: Other
+                - generic [ref=e1411]:
+                  - generic [ref=e1412]: Current Symptoms Description
+                  - text: Optional
+                  - textbox [ref=e1413]
+            - generic [ref=e1414]:
+              - button "Back" [ref=e1415] [cursor=pointer]
               - button "Next"
       - text: 
-    - generic [ref=e1294]:
-      - generic [ref=e1295]:
-        - link [ref=e1296] [cursor=pointer]:
+    - generic [ref=e1419]:
+      - generic [ref=e1420]:
+        - link [ref=e1421] [cursor=pointer]:
           - /url: index.html
-          - img [ref=e1297]
-        - generic [ref=e1298]:
+          - img [ref=e1422]
+        - generic [ref=e1423]:
           - text: 2945 Webster St., Floor 2,
           - text: Oakland, CA 94609
-        - generic [ref=e1299]: "US customers: (888) 493-1727"
-        - generic [ref=e1300]: "Outside the US: (510) 250-9797"
-        - button "Shop Animal Biome" [ref=e1302] [cursor=pointer]
-      - paragraph [ref=e1304]:
+        - generic [ref=e1424]: "US customers: (888) 493-1727"
+        - generic [ref=e1425]: "Outside the US: (510) 250-9797"
+        - button "Shop Animal Biome" [ref=e1427] [cursor=pointer]
+      - paragraph [ref=e1429]:
         - text: Copyright Animal Microbiome Analytics, Inc. dba AnimalBiome 2016–2025. All Rights Reserved. View
-        - link "Terms of Service" [ref=e1305] [cursor=pointer]:
+        - link "Terms of Service" [ref=e1430] [cursor=pointer]:
           - /url: https://shop.animalbiome.com/pages/terms-of-service
         - text: and
-        - link "Privacy Policy" [ref=e1306] [cursor=pointer]:
+        - link "Privacy Policy" [ref=e1431] [cursor=pointer]:
           - /url: https://shop.animalbiome.com/pages/privacy-policy
         - text: .
-  - iframe [ref=e1307]:
+  - iframe [ref=e1432]:
     - button "AnimalBiome live chat" [ref=f1e4] [cursor=pointer]:
       - img "AnimalBiome live chat" [ref=f1e5]
 ```
