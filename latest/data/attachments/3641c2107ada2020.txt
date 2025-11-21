@@ -6,7 +6,7 @@ Cropper position adjusted
 Clicking submit button on image cropper
 Image uploaded and cropped successfully
 Selected breed: Golden Retriever
-Entered pet name: DogWithImageYes1763709979546
+Entered pet name: DogWithImageYes1763710396294
 Entered years: 2
 Entered months: 8
 Selected Male
