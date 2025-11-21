@@ -1,0 +1,103 @@
+✅ Dashboard loaded, ready to test
+Uploaded pet image: test-data/Dog1.jpg
+Image cropper popup appeared
+Dragging cropper from center (631.6458740234375, 456.70835876464844)
+Cropper position adjusted
+Clicking submit button on image cropper
+Image uploaded and cropped successfully
+Selected breed: Golden Retriever
+Entered pet name: DogWithImageYes1763701449547
+Entered years: 2
+Entered months: 8
+Selected Male
+Entered weight: 30
+Selected kg
+Selected Spayed/Neutered: Yes
+Clicked Next button (My Pet section)
+🔄 Starting Pet Health section with YES options...
+📊 Found 7 Yes buttons
+✅ Clicked Yes button 1/7
+✅ Clicked Yes button 2/7
+✅ Clicked Yes button 3/7
+✅ Clicked Yes button 4/7
+✅ Clicked Yes button 5/7
+✅ Clicked Yes button 6/7
+✅ Clicked Yes button 7/7
+🔘 Selecting body condition...
+✅ Selected body condition (option 5)
+📋 Selecting all checkboxes...
+Found 71 total checkboxes
+  ✓ Selected checkbox 1/71
+  ✓ Selected checkbox 2/71
+  ✓ Selected checkbox 3/71
+  ✓ Selected checkbox 4/71
+  ✓ Selected checkbox 5/71
+  ✓ Selected checkbox 6/71
+  ✓ Selected checkbox 7/71
+  ✓ Selected checkbox 8/71
+  ✓ Selected checkbox 9/71
+  ✓ Selected checkbox 10/71
+  ✓ Selected checkbox 11/71
+  ✓ Selected checkbox 12/71
+  ✓ Selected checkbox 13/71
+  ✓ Selected checkbox 14/71
+  ✓ Selected checkbox 15/71
+  ✓ Selected checkbox 16/71
+  ✓ Selected checkbox 17/71
+  ✓ Selected checkbox 18/71
+  ✓ Selected checkbox 19/71
+  ✓ Selected checkbox 20/71
+  ✓ Selected checkbox 21/71
+  ✓ Selected checkbox 22/71
+  ✓ Selected checkbox 23/71
+  ✓ Selected checkbox 24/71
+  ✓ Selected checkbox 25/71
+  ✓ Selected checkbox 26/71
+  ✓ Selected checkbox 27/71
+  ✓ Selected checkbox 28/71
+  ✓ Selected checkbox 29/71
+  ✓ Selected checkbox 30/71
+  ✓ Selected checkbox 31/71
+  ✓ Selected checkbox 32/71
+  ✓ Selected checkbox 33/71
+  ✓ Selected checkbox 34/71
+  ✓ Selected checkbox 35/71
+  ✓ Selected checkbox 36/71
+  ✓ Selected checkbox 37/71
+  ✓ Selected checkbox 38/71
+  ✓ Selected checkbox 39/71
+  ✓ Selected checkbox 40/71
+  ✓ Selected checkbox 41/71
+  ✓ Selected checkbox 42/71
+  ✓ Selected checkbox 43/71
+  ✓ Selected checkbox 44/71
+  ✓ Selected checkbox 45/71
+  ✓ Selected checkbox 46/71
+  ✓ Selected checkbox 47/71
+  ✓ Selected checkbox 48/71
+  ✓ Selected checkbox 49/71
+  ✓ Selected checkbox 50/71
+  ✓ Selected checkbox 51/71
+  ✓ Selected checkbox 52/71
+  ✓ Selected checkbox 53/71
+  ✓ Selected checkbox 54/71
+  ✓ Selected checkbox 55/71
+  ✓ Selected checkbox 56/71
+  ✓ Selected checkbox 57/71
+  ✓ Selected checkbox 58/71
+  ✓ Selected checkbox 59/71
+  ✓ Selected checkbox 60/71
+  ✓ Selected checkbox 61/71
+  ✓ Selected checkbox 62/71
+  ✓ Selected checkbox 63/71
+  ✓ Selected checkbox 64/71
+  ✓ Selected checkbox 65/71
+  ✓ Selected checkbox 66/71
+  ✓ Selected checkbox 67/71
+  ✓ Selected checkbox 68/71
+  ✓ Selected checkbox 69/71
+  ✓ Selected checkbox 70/71
+  ✓ Selected checkbox 71/71
+📝 Entering pet food details...
+✅ Entered pet food details
+✅ Pet Health section with YES options completed
