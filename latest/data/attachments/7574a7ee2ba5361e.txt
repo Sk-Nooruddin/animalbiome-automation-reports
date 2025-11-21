@@ -22,3 +22,14 @@ Clicked Next button (My Pet section)
   Found 142 checked checkboxes remaining
   Unchecking 127 checkboxes (keeping ~15)...
 ✅ Unchecked 127 checkboxes, 15 remain selected
+⚠️ Next button is disabled, checking for validation errors...
+❌ Validation errors found: [
+  'Does your pet have any diagnosed physical conditions?',
+  'Oral HealthChronic GingivostomatitisGingivitisTooth ResorptionEarly Periodontal DiseaseModerate Periodontal DiseaseAdvanced Periodontal DiseaseCancerGI HealthHormonal ConditionsSkin ConditionsOther body systemsOther',
+  'Oral Health',
+  'Oral Health',
+  ' Is your pet on a prescription or restricted diet?',
+  'Wet / CannedDry KibbleFresh or Frozen - CookedFresh or Frozen - RawFreeze-dried - CookedFreeze-dried - RawOther',
+  ' Is your pet currently experiencing any symptoms? ',
+  'GI concernsSkin issuesStiff or painful jointsOral concernsOther'
+]
