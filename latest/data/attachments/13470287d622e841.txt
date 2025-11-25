@@ -10,3 +10,10 @@
 ✅ Clicked My Account
 ✅ My Account page loaded
 ✅ Scrolled down to deactivated pets section
+✅ Found deactivated pet text
+✅ Found deactivated pet card
+✅ Hovered over deactivated pet card
+✅ Clicked Reactivate button
+✅ Pet reactivated successfully
+✅ Returned to dashboard
+✅ Pet is active on dashboard - Test completed successfully!
