@@ -7,3 +7,6 @@
 ⚠️ Deactivated text not found, but continuing...
 ✅ Scrolled to top
 ✅ Clicked user profile icon
+✅ Clicked My Account
+✅ My Account page loaded
+✅ Scrolled down to deactivated pets section

@@ -1,0 +1,12 @@
+✅ Dashboard loaded, ready to test
+🔄 Starting Deactivate and Reactivate Dog test...
+✅ My Pets section found
+✅ Found first pet card
+✅ Hovered over pet card to flip
+✅ Clicked Deactivate button
+⚠️ Deactivated text not found, but continuing...
+✅ Scrolled to top
+✅ Clicked user profile icon
+✅ Clicked My Account
+✅ My Account page loaded
+✅ Scrolled down to deactivated pets section
